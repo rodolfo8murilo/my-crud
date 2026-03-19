@@ -52,4 +52,12 @@ The project follows a layered architecture:
 
 This separation improves maintainability, scalability, and testability.
 
+## 🧠 Learning Goals
+
+- Understand Spring Boot fundamentals  
+- Build RESTful APIs  
+- Apply layered architecture (Controller-Service-Repository)  
+- Work with in-memory databases (H2)  
+- Practice clean code principles  
+
 
