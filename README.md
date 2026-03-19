@@ -26,4 +26,14 @@ This project demonstrates backend development best practices, including RESTful 
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/rodolfo8murilo/my-crud.git
+cd my-crud
+
+### 2. Build the project
+```bash
+mvn clean install
