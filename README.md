@@ -42,5 +42,14 @@ mvn clean install
 ```bash
 mvn spring-boot:run
 ```
+## 🧠 Architecture
+
+The project follows a layered architecture:
+
+- **Controller** → Handles HTTP requests and responses  
+- **Service** → Contains business logic  
+- **Repository** → Manages database operations  
+
+This separation improves maintainability, scalability, and testability.
 
 
